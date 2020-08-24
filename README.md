@@ -1,6 +1,8 @@
 # instaprof
 Download instagram profile photo 
 ----------------------------------
-#Usage 
-Just Enter the Username :+1:
+# Usage 
+Just Enter a Valid Username :+1:
+----------------------------------
+
 
