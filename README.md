@@ -7,7 +7,7 @@ python3
 pyloader
 pyfiglet
 ```
-### how to install requipments
+### How to install requipments
 ```
 sudo pip3 install instaloader
 sudo pip3 install pyfiglet
@@ -16,8 +16,8 @@ sudo pip3 install pyfiglet
 ```
 python3 instaprof
 ```
-
-## Just Enter a Valid Username :+1:
+### Usage
+Just Enter a Valid Username :+1:
 <p align="center">
   <img src="http://s10.picofile.com/file/8406640818/Capture.PNG" width="1080" alt="accessibility text">
 </p>
