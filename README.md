@@ -1,6 +1,6 @@
 # instaprof
 Download instagram profile photo 
 ----------------------------------
-##Installing 
-> git clone 
+#Usage 
+Just Enter the Username :+1:
 
